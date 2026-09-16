@@ -1,0 +1,66 @@
+module org.kde.kdenlive
+linktarget kdenliveLibplugin
+optional plugin kdenliveLibplugin
+classname org_kde_kdenlivePlugin
+typeinfo kdenliveLib.qmltypes
+depends QtQuick
+prefer :/qt/qml/org/kde/kdenlive/
+ZoomBar 254.0 ZoomBar.qml
+AudioView 254.0 AudioView.qml
+AudioZoomBar 254.0 AudioZoomBar.qml
+ProjectMonitor 254.0 ProjectMonitor.qml
+Countdown 254.0 Countdown.qml
+ClipMonitor 254.0 ClipMonitor.qml
+MonitorAutomask 254.0 MonitorAutomask.qml
+MonitorCornerScene 254.0 MonitorCornerScene.qml
+MonitorGeometryScene 254.0 MonitorGeometryScene.qml
+MonitorOverlay 254.0 MonitorOverlay.qml
+MonitorRotoScene 254.0 MonitorRotoScene.qml
+MonitorSafeZone 254.0 MonitorSafeZone.qml
+MonitorSplit 254.0 MonitorSplit.qml
+MonitorSplitTracks 254.0 MonitorSplitTracks.qml
+MonitorToolButton 254.0 MonitorToolButton.qml
+MonitorZoomButton 254.0 MonitorZoomButton.qml
+MonitorTrimming 254.0 MonitorTrimming.qml
+SceneToolBar 254.0 SceneToolBar.qml
+MultiScreenToolBar 254.0 MultiScreenToolBar.qml
+EffectToolBar 254.0 EffectToolBar.qml
+MaskToolBar 254.0 MaskToolBar.qml
+MonitorRuler 254.0 MonitorRuler.qml
+OverlayStandard 254.0 OverlayStandard.qml
+OverlayMinimal 254.0 OverlayMinimal.qml
+OverlayCenter 254.0 OverlayCenter.qml
+OverlayCenterDiagonal 254.0 OverlayCenterDiagonal.qml
+OverlayThirds 254.0 OverlayThirds.qml
+OverlayLabel 254.0 OverlayLabel.qml
+Safe169 254.0 Safe169.qml
+Safe916 254.0 Safe916.qml
+ResizeHandle 254.0 ResizeHandle.qml
+ResizeLogic 254.0 ResizeLogic.js
+SnappingLogic 254.0 SnappingLogic.js
+RotationHandle 254.0 RotationHandle.qml
+Utils 254.0 Utils.js
+Timeline 254.0 Timeline.qml
+TimelineLogic 254.0 TimelineLogic.js
+TrackHead 254.0 TrackHead.qml
+SubtitleTrackHead 254.0 SubtitleTrackHead.qml
+AudioRecordingControls 254.0 AudioRecordingControls.qml
+AudioRecordButton 254.0 AudioRecordButton.qml
+AudioLevels 254.0 AudioLevels.qml
+Track 254.0 Track.qml
+Ruler 254.0 Ruler.qml
+RulerZone 254.0 RulerZone.qml
+Clip 254.0 Clip.qml
+SubTitle 254.0 SubTitle.qml
+MixShape 254.0 MixShape.qml
+ClipThumbs 254.0 ClipThumbs.qml
+ClipAudioThumbs 254.0 ClipAudioThumbs.qml
+KeyframeView 254.0 KeyframeView.qml
+KeyframeDelegate 254.0 KeyframeDelegate.qml
+Composition 254.0 Composition.qml
+PulsingAnimation 254.0 PulsingAnimation.qml
+AssetMenu 254.0 AssetMenu.qml
+GuidesMenu 254.0 GuidesMenu.qml
+Splash 254.0 Splash.qml
+Simplesplash 254.0 Simplesplash.qml
+
