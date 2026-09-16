@@ -1,8 +1,0 @@
-module org.kde.purpose.private.widgets
-linktarget KF6PurposeWidgetsplugin
-optional plugin KF6PurposeWidgetsplugin
-classname org_kde_purpose_private_widgetsPlugin
-typeinfo KF6PurposeWidgets.qmltypes
-prefer :/qt/qml/org/kde/purpose/private/widgets/
-JobDialog 254.0 JobDialog.qml
-
